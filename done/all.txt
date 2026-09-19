@@ -7,12 +7,3 @@ img/ce/ce3eb64767037097.webp
 img/d0/d074f1846f2c8c8f.webp
 img/fb/fb501e989c32a321.webp
 img/fc/fc491490575124cf.webp
-vid/18/1826f139014ed6bb.mp4
-vid/32/32a200db64a303af.mp4
-vid/47/4761d0bdfbb0c001.mp4
-vid/5a/5a11b079cd6fb01f.mp4
-vid/89/890f9a5b08f487a3.mp4
-vid/92/9218c91386d84aab.mp4
-vid/9a/9ac6ec7c06198e95.mp4
-vid/a3/a33b2453a03467fb.mp4
-vid/b8/b869a20486901f65.mp4
